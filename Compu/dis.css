@@ -1,0 +1,29 @@
+body {Color:white; background-color:skyblue;}
+       
+Header{	text-shadow:gray 10px 10px 20px; text-align: center;}
+
+img {width:25%; border-radius: 50%;}
+a( tezt-shadow:blue 3px 3px 9px; font-size: 20px; text-decoration:none, background:#3BA7E1;
+color:white; padding:10px 20 px; margin:10px 10px ; box-shadow: 2px 5px 3px;) 
+
+nav{font-size: 30px; text-shadow: gray 3px 3px 10px;}  
+
+h1{Color:Darkblue; font-size:50px; font-family:broadway; text-shadow:gray 10px 10px 20px; text-transform: uppercase; }
+   
+h2{Color:Red; font-size:30px; font-family:Impact;}
+
+h3{Color:blue; font-size:20px;}
+
+p {color:orange; font-size:20px; text-align:center;}
+
+section{width:75%; background-color: skyblue;}
+
+footer{background:black; color:yellow; font-size:25px;
+	   box-shadow: yellow 5px 5px 10px; text-align: right;}
+	   
+aside{position:fixed; width:25%; top:35%; Bottom:0; right:0; left:75%;}
+
+a:link{ color:Orange;}
+a:hover{ color:black; box-shadow: 0px 5px 0px black; background:silver; }
+a:active{ box-shadow:none; }
+a:visited{ color:red; }
